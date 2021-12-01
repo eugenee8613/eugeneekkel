@@ -1,2 +1,2 @@
-# eugeneekkel
+# Eugene Ekkel
 This is me
